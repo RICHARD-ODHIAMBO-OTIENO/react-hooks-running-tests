@@ -3,7 +3,7 @@ import React from "react";
 function Article() {
   return (
     <div>
-      {/* please pass this test */}
+      {<h1>hello from the Header!</h1>}
     </div>
   );
 }
